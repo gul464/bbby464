@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookdb>
+    <book>
+        <title>Muhammed Ali Hayatı ve Farklı Dönemleri</title>
+        <author>Thomas Hauser</author>
+        <publisher>Olasılık</publisher>
+        <ISBN>9786059976053</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>31,92</price_turkish_lira>
+        <URL>http://www.dr.com.tr/Kitap/Muhammed-Ali/Thomas-Hauser/Edebiyat/Biyografi-Oto-Biyografi/urunno=0000000683759</URL>
+    </book>
+    <book>
+        <title>Locos - Bir Jestler Komedisi</title>
+        <author>Felipe Alfau</author>
+        <publisher>Monokl</publisher>
+        <ISBN>9786055159351</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>15,20</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/locos-bir-jestler-komedisi-felipe-alfau/tanim.asp?sid=A6Q0LCZX7B3BFOKVYMJ7</URL>
+    </book> 
+    <book>
+        <title>Zamanın Gurultusu</title>
+        <author>Julian Barnes</author>
+        <publisher>Ayrıntı Yayınları</publisher>
+        <ISBN>9786053140849</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>9,80</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/zamanin-gurultusu-julian-barnes/tanim.asp?sid=IVTHDIF5MG1GTNWITYAZ</URL>
+    </book>
+    <book>
+        <title>Niko</title>
+        <author>Dimitri Nasrallah</author>
+        <publisher>Everest Yayınları</publisher>
+        <ISBN>9786051419732</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>13,20</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/niko-dimitri-nasrallah/tanim.asp?sid=MG04FN5H20S3EESG5WWC</URL>
+    </book>
+    <book>
+        <title>Kırmızı Saclı Kadın</title>
+        <author>Orhan Pamuk</author>
+        <publisher>Yapı Kredi Yayınları</publisher>
+        <ISBN>9789750835605</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>7,80</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/kirmizi-sacli-kadin-orhan-pamuk/tanim.asp?sid=Q08APKKT2S0SGFGBLPD5</URL>
+    </book>
+    <book>
+        <title>Kısasa Kısas</title>
+        <author>William Shakespeare</author>
+        <publisher>Helikopter</publisher>
+        <ISBN>9786055819460</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>9,75</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/kisasa-kisas-william-shakespeare/tanim.asp?sid=J4KOV6KRTK7K52RWGQD1</URL>
+    </book>
+    <book>
+        <title>Tas Tas Ustunde</title>
+        <author>Wieslaw Mysliwski</author>
+        <publisher>Aylak Adam</publisher>
+        <ISBN>9786059691185</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>25,55</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/tas-tas-ustunde-wieslaw-mysliwski/tanim.asp?sid=NNR8DTHQCT6T8KRSNTX5</URL>
+    </book>
+    <book>
+        <title>Katip Bartleby</title>
+        <author>Herman Melville</author>
+        <publisher>Kolektif Kitap</publisher>
+        <ISBN>9786055029500</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>5,84</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/katip-bartleby-herman-melville/tanim.asp?sid=JH7X29B5BB5BDAZT31FX</URL>
+    </book>
+    <book>
+        <title>Yoksunlar</title>
+        <author>Ferhat Özkan</author>
+        <publisher>Yapı Kredi Yayınları</publisher>
+        <ISBN>9789750836015</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>5,20</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/yoksunlar-ferhat-ozkan/tanim.asp?sid=RJT1OJ6HD3BICD4P0REW</URL>
+    </book>
+    <book>
+        <title>Türkiyenin Pop Müzigi</title>
+        <author>Uğur Küçükkaplan</author>
+        <publisher>Ayrıntı Yayınları</publisher>
+        <ISBN>9786053140894</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>24,50</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/turkiyenin-pop-muzigi-ugur-kucukkaplan/tanim.asp?sid=K0OT6U3C83OKJ57VED1J</URL>
+    </book>
+    <book>
+        <title>Isgal Altında Istanbul</title>
+        <author>Ali Karayaka</author>
+        <publisher>İnkilap Kitabevi</publisher>
+        <ISBN>9789751036636</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>19,00</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/isgal-altinda-istanbul-ali-karayaka/tanim.asp?sid=OM6YQXPVIA3AKCSMVIV7</URL>
+    </book>
+    <book>
+        <title>Zihni Gelistirmenin 101 Yolu</title>
+        <author>Rachel Walker</author>
+        <publisher>NTV</publisher>
+        <ISBN>9786055056872</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>12,92</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/zihni-gelistirmenin-101-yolu-rachel-walker/tanim.asp?sid=JIXQTUDHWG6G2EI6ROU8</URL>
+    </book>
+    <book>
+        <title>Ted Gibi Konus</title>
+        <author>Ali Karayaka</author>
+        <publisher>Aganta Kitab</publisher>
+        <ISBN>9786059851558</ISBN>
+        <date_of_publication>2015</date_of_publication>
+        <price_turkish_lira>17,48</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/ted-gibi-konus-carmine-gallo/tanim.asp?sid=JBXGRQCSJG5KFISEUVVK</URL>
+    </book>
+    <book>
+        <title>İnsaat Ya Resulullah</title>
+        <author>Kolektif</author>
+        <publisher>Birikim Yayınları</publisher>
+        <ISBN>9789750519055</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>12,16</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/insaat-ya-resulullah-kolektif/tanim.asp?sid=QH1E6TE7QY5RODLB04O2</URL>
+    </book>
+    <book>
+        <title>Hayvanlardan Tanrılara - Sapiens</title>
+        <author>Yuval Noah Harari</author>
+        <publisher>Kolektif Kitap</publisher>
+        <ISBN>9786055029357</ISBN>
+        <date_of_publication>2015</date_of_publication>
+        <price_turkish_lira>20,44</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/hayvanlardan-tanrilara-sapiens-yuval-noah-harari/tanim.asp?sid=T881G21E08EVDLBW14I5</URL>
+    </book>
+    <book>
+        <title>Mezeleri Güzel - Bir Beyaz Yakalının İtirafları</title>
+        <author>Erdem Aksakal</author>
+        <publisher>Ot Kitap</publisher>
+        <ISBN>9786059738026</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>12,16</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/mezeleri-guzel-bir-beyaz-yakalinin-itiraflari-erdem-aksakal/tanim.asp?sid=V8T56SA8BG5GA3N7MHXR</URL>
+    </book>
+    <book>
+        <title>Popüler Sinemanın Mitolojisi</title>
+        <author>Veysel Atayman, Tuncer Cetinkaya</author>
+        <publisher>Ayrıntı Yayınları</publisher>
+        <ISBN>9786053140771</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>28,00</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/populer-sinemanin-mitolojisi-veysel-atayman/tanim.asp?sid=M536VPR27S5SFI2CU7WW</URL>
+    </book>
+    <book>
+        <title>Edebiyatımızda Isimler Sozlugu</title>
+        <author>Behcet Necatigil</author>
+        <publisher>Yapı Kredi Yayınları</publisher>
+        <ISBN>9789750835940</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>24,70</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/edebiyatimizda-isimler-sozlugu-behcet-necatigil/tanim.asp?sid=XDHT42O2S288SNVL61O6</URL>
+    </book>
+    <book>
+        <title>Cocuk Cevre Doga</title>
+        <author>Bekir Onur</author>
+        <publisher>İmge Kitabevi</publisher>
+        <ISBN>9789755338354</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>24,94</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/cocuk-cevre-doga-bekir-onur/tanim.asp?sid=UB0FJ9ZC81QH327OO849</URL>
+    </book>
+    <book>
+        <title>Bir Evlilik Komedisi</title>
+        <author>Sinan Akyüz</author>
+        <publisher>Alfa Yayıncılık</publisher>
+        <ISBN>9786051712536</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>15,20</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/bir-evlilik-komedisi-sinan-akyuz/tanim.asp?sid=I62JO7R40E7EGYG1IKJ0</URL>
+    </book>
+    <book>
+        <title>Kanunların Ruhu Üzerine</title>
+        <author>Montesquieu</author>
+        <publisher>Doruk Yayınları</publisher>
+        <ISBN>9789755536569</ISBN>
+        <date_of_publication>2016</date_of_publication>
+        <price_turkish_lira>45,60</price_turkish_lira>
+        <URL>http://www.idefix.com/kitap/kanunlarin-ruhu-uzerine-montesquieu/tanim.asp?sid=Y178QCO2G53EZKZR5L2J</URL>
+    </book>
+</bookdb>
